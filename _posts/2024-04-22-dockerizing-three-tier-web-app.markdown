@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dockerizing a 2 tier web application and Pushing to Docker Hub "
+title:  "Dockerizing a 3 tier web application and Pushing to Docker Hub "
 date:   2024-04-22 13:47:45 +0530
 categories: jekyll cat2
 author: "Haard Shah"
